@@ -87,7 +87,7 @@ I enjoy writing clean code, learning new technologies, and contributing to impac
 
 ### 🌍 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:neku2604@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Gmail" />
   </a>
