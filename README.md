@@ -79,8 +79,9 @@ User account system with deposit logic and DB-based scores.
 ### 💫 Motivation of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
+  <img src="https://readme-daily-quotes.vercel.app/api?category=motivational&theme=github_dark" alt="Motivational Quote" />
 </p>
+
 
 
 ### 🌍 Connect With Me
