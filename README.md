@@ -4,8 +4,9 @@
 </p>
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=BF7BFF&center=true&vCenter=true&width=600&lines=Hello👋+Welcome+to+my+GitHub+Profile!;Java+%26+SQL+Developer;AI+%26+LLM+Enthusiast;Automation+Builder" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=BF7BFF&center=true&vCenter=true&width=650&lines=Hello👋+Welcome+to+my+GitHub+Profile!;I+am+an+AI+%26+Automation+Learner+🤖;I+am+also+starting+my+Journey+as+a+Software+Developer+✨" />
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm Neha Kumari</h1>
