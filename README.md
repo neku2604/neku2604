@@ -72,9 +72,10 @@ I enjoy writing clean code, learning new technologies, and contributing to impac
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=neku2604&theme=tokyonight" />
-  <img height="200" src="https://raw.githubusercontent.com/github-readme-stats/github-readme-stats/master/top-langs.svg?username=neku2604&layout=compact&theme=tokyonight" />
+  <img height="200" src="https://streak-stats.demolab.com?user=neku2604&theme=tokyonight" alt="Streak Stats" />
+  <img height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=neku2604&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 
 
