@@ -74,14 +74,18 @@ I enjoy writing clean code, learning new technologies, and contributing to impac
 
 
 ### ⚡ GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neku2604&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neku2604&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neku2604&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neku2604&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Custom%20GPTs-OpenAI-blueviolet" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-GenAI-success" />
+  <img src="https://img.shields.io/badge/RAG--Lite-Document%20Grounding-orange" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neku2604&theme=tokyo-night" />
-
-
 
 
 
