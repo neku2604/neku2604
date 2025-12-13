@@ -42,6 +42,9 @@ I enjoy writing clean code, learning new technologies, and contributing to impac
 
 ### 🚀 Featured Projects
 
+- [Enterprise-Grade Custom GPT Projects](https://github.com/neku2604/Enterprise-custom-gpt-projects) · *Custom GPTs, Prompt Engineering, RAG-Lite*  
+  Built 3 enterprise-style AI assistants for **Hospitality, E-commerce, and FinTech**, using document-grounded (RAG-lite) knowledge, structured conversation flows, and business-rule enforcement.
+  
 - [LinkedIn Job Automation](https://github.com/neku2604/n8n_linkedin_job_listing) · *n8n, OpenAI, Google Sheets*  
   Automates job listing data from LinkedIn → extracts skills → logs everything into Google Sheets for analysis.
 
